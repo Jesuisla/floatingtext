@@ -4,7 +4,17 @@
 }
 
 
+.left {
+	float: left;
+	margin-right: 10px;
+	margin-left: 10px;
+}
 
+.right {
+	float: right;
+	margin-right: 10px;
+	margin-left: 10px;
+}
 
 
 
